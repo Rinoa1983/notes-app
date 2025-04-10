@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: #655F69;
+}
+
+footer {
+    background-color: #655F69;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+section {
+    background-color: #1E8A89;
+
+}
+
+div {
+    background-color: black;
+    size: 20%;
+}
